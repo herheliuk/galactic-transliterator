@@ -1,4 +1,4 @@
-# galactic_transliterator.py
+#!/usr/bin/env python3
 
 language_map = {
     'ENGLISH_TO_SURZHYK': {
